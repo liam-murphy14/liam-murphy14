@@ -19,6 +19,5 @@ LIST LANGUAGES HERE
 ## Projects
 * TALK ABOUT TRADING PROJECT and link to it for collab
 * TALK ABOUT ML IMAGE PROJECT and link to it for collab
-
-
-<span style="font-size:4em">Happy Coding !!</span>
+-----------
+<span style="font-size:24em">Happy Coding !!</span>
