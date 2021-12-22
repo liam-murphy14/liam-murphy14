@@ -1,5 +1,6 @@
 # :zap: liam-murphy14 :zap:
-Hi there, my name is Liam Murphy. I am a student at Boston College.
+Hi there, my name is Liam Murphy. I am a student at Boston College.  
+You can reach my by 
 ## Interests
 * Computer Science :computer: :microscope:
   * Machine Learning
@@ -19,5 +20,7 @@ LIST LANGUAGES HERE
 ## Projects
 * TALK ABOUT TRADING PROJECT and link to it for collab
 * TALK ABOUT ML IMAGE PROJECT and link to it for collab
+
+
 -----------
 HAPPY CODING !!
