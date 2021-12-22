@@ -16,7 +16,9 @@ You can reach me at my [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if 
 ## Technology
 #### Languages
 <img src="images/python.svg" width="100" height="100">
-![Python](images/python.svg) ![Java](images/java.svg) ![OCaml](images/ocaml.svg) ![C](images/c.svg)  
+<img src="images/java.svg" width="100" height="100">
+<img src="images/ocaml.svg" width="100" height="100">
+<img src="images/c.svg" width="100" height="100">
 and more to come...
 #### Tools
 ![Homebrew](images/homebrew.svg) ![git](images/git-icon.svg) ![Vim](images/vim.svg) ![VSCode](images/visual-studio-code.svg)
