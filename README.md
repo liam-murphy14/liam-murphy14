@@ -21,8 +21,8 @@ You can reach me at my [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if 
 ## Projects
 
 ***Under Construction***
+* Idea for project. Looking for collaboration on machine learning image making project.
 * TALK ABOUT TRADING PROJECT and link to it for collab
-* TALK ABOUT ML IMAGE PROJECT and link to it for collab
 
 -----------
 
