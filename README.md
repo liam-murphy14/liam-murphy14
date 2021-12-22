@@ -1,12 +1,12 @@
 # :zap: liam-murphy14 :zap:
 Hi there, my name is Liam Murphy. I am a student at Boston College.
 ## Interests
-* Computer Science :laptop: :microscope:
+* Computer Science :computer: :microscope:
   * Machine Learning
   * Computability
   * NP-Completeness
   * Graph Theory
-* Mathematics :abucus:
+* Mathematics :abacus:
   * Topology
   * Logic and Set Theory
 * Finance :dollar:
