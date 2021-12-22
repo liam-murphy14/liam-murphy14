@@ -20,4 +20,4 @@ LIST LANGUAGES HERE
 * TALK ABOUT TRADING PROJECT and link to it for collab
 * TALK ABOUT ML IMAGE PROJECT and link to it for collab
 -----------
-<span style="font-size:24em">Happy Coding !!</span>
+<span style="font-size:8em">Happy Coding !!</span>
