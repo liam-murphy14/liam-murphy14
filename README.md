@@ -15,10 +15,7 @@ You can reach me at my [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if 
   * Algorithmic Trading
 ## Technology
 #### Languages
-<img src="images/python.svg" width="100" height="100">
-<img src="images/java.svg" width="100" height="100">
-<img src="images/ocaml.svg" width="100" height="100">
-<img src="images/c.svg" width="100" height="100">
+<img src="images/python.svg" width="100" height="100"><img src="images/java.svg" width="100" height="100"><img src="images/ocaml.svg" width="100" height="100"><img src="images/c.svg" width="100" height="100">
 and more to come...
 #### Tools
 ![Homebrew](images/homebrew.svg) ![git](images/git-icon.svg) ![Vim](images/vim.svg) ![VSCode](images/visual-studio-code.svg)
