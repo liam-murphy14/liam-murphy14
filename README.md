@@ -20,7 +20,7 @@ You can reach me at my [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if 
 <img src="images/homebrew.svg" width="100" height="100"> <img src="images/git-icon.svg" width="100" height="100"> <img src="images/vim.svg" width="100" height="100"> <img src="images/visual-studio-code.svg" width="100" height="100">
 ## Projects
 
-* Looking for collaboration on a machine learning image making project, INSERT LINK WITH INFO
+* Looking for collaboration on a machine learning image making project, [CollagerML](https://github.com/liam-murphy14/CollagerML).
 * Actively testing and developing algorithmic trading strategies, message me on [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if you are interested in collaborating, mostly using QuantConnect platform.
 
 -----------
