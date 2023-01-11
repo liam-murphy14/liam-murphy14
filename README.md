@@ -15,9 +15,9 @@ You can reach me at my [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if 
   * Algorithmic Trading
 ## Technology
 #### Languages
-<img src="images/python.svg" width="100" height="100"> <img src="images/java.svg" width="100" height="100"> <img src="images/ocaml-2.svg" width="100" height="100"> <img src="images/c.svg" width="100" height="100">
+<img src="assets/images/README/python.svg" width="100" height="100"> <img src="assets/images/README/java.svg" width="100" height="100"> <img src="assets/images/README/ocaml-2.svg" width="100" height="100"> <img src="assets/images/README/c.svg" width="100" height="100">
 #### Tools
-<img src="images/homebrew.svg" width="100" height="100"> <img src="images/git-icon.svg" width="100" height="100"> <img src="images/vim.svg" width="100" height="100"> <img src="images/visual-studio-code.svg" width="100" height="100">
+<img src="assets/images/README/homebrew.svg" width="100" height="100"> <img src="assets/images/README/git-icon.svg" width="100" height="100"> <img src="assets/images/README/vim.svg" width="100" height="100"> <img src="assets/images/README/visual-studio-code.svg" width="100" height="100">
 ## Projects
 
 * Actively testing and developing algorithmic trading strategies, message me on [LinkedIn](https://www.linkedin.com/in/liammurphy14/) if you are interested in collaborating, mostly using QuantConnect platform.
