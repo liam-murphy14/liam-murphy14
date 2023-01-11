@@ -24,6 +24,11 @@ defaults:
       layout: "post"
       permalink: /blog/posts/:title/
   - scope:
+      path: "_drafts"
+    values:
+      layout: "post"
+      permalink: /blog/drafts/:title/
+  - scope:
       path: "blog.md"
     values:
       layout: "blog"
