@@ -1,0 +1,31 @@
+title: Sum Numbers
+markdown: kramdown
+
+# for atom feed
+author:
+  name: Liam Murphy
+  email: mailman14736@gmail.com
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /blog/posts/:title/
+  - scope:
+      path: "blog.md"
+    values:
+      layout: "blog"
+      permalink: /blog
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
