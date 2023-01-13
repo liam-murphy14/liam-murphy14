@@ -6,18 +6,18 @@
       {% include header.html %}
       <section class="article">
         <div class="article-header">
-          <h2 class="article-title">{{page.title}}</h2>
-          <small class="date">{{page.date | date_to_string}}</small>
+          <h2 class="article-title">{{ page.title }}</h2>
+          <small class="date">{{ page.date | date_to_string }}</small>
           <div class="categories">
             {% for c in page.categories %}
-            <a href="#!" class="category">{{c}}</a>
+              <a href="#!" class="category">{{ c }}</a>
             {% endfor %}
           </div>
         </div>
-        <div class="content">{{content}}</div>
+        <div class="content">{{ content }}</div>
       </section>
       {% include footer.html %}
     </main>
-    {% include category-modal.html%}
+    {% include category-modal.html %}
   </body>
 </html>
