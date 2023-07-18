@@ -4,7 +4,7 @@ markdown: kramdown
 # for atom feed
 author:
   name: Liam Murphy
-  email: mailman14736@gmail.com
+  email: liam.murphy137@gmail.com
 
 plugins:
   - jemoji
