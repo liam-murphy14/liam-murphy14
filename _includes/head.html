@@ -2,7 +2,6 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ site.title }} | {{ page.title }}</title>
   {% if page.layout == "post" %}
     <link rel="stylesheet" href="{{ '/assets/css/post.css' | relative_url }}" />
     <link rel="stylesheet" href="{{ '/assets/css/syntax.css' | relative_url }}" />
@@ -10,7 +9,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}" />
   {% endif %}
   <link rel="stylesheet" href="{{ '/assets/css/common.css' | relative_url }}" />
-  <script src="{{ '/assets/js/categories.js' | relative_url }}"></script>
+  {% if page.layout == "blog" or page.layout == "post" %}
+    <script src="{{ '/assets/js/categories.js' | relative_url }}"></script>
+  {% endif %}
   {% if page.layout == "post" %}
     <script defer src="{{ '/assets/js/lbox.js' | relative_url}}"></script>
   {% endif %}
@@ -19,5 +20,13 @@
     type="image/x-icon"
     href="{{ '/assets/images/favicon.ico' | relative_url }}" />
   {% feed_meta %}
+  {% if page.layout == "blog" %}
+    <meta name="description" content="Software engineering and mathematical musings, thought up and hastily typed out by Liam Murphy" />
+    <meta property="og:description" content="Software engineering and mathematical musings, thought up and hastily typed out by Liam Murphy" />
+  {% endif %}
+  {% if page.layout != "blog" and page.layout != "post" %}
+    <meta name="description" content="My personal website, with links to my other platforms and work, as well as a short description." />
+    <meta property="og:description" content="My personal website, with links to my other platforms and work, as well as a short description." />
+  {% endif %}
   {% seo %}
 </head>
