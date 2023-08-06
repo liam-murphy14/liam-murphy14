@@ -6,6 +6,7 @@ author:
   name: Liam Murphy
   email: liam.murphy137@gmail.com
 
+url: "https://liammurphydev.com"
 plugins:
   - jemoji
   - jekyll-seo-tag
