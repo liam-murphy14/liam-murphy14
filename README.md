@@ -1,4 +1,4 @@
-# :zap: liam-murphy14 :zap:
+# ⚡ liam-murphy14 ⚡
 Hi there, my name is Liam Murphy. I am a recent graduate from Boston College and full stack engineer at [PR Monkey](https://prmonkey.com).  
 
 Check out my [website](https://liammurphydev.com) for more.
